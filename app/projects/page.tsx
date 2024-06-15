@@ -10,7 +10,7 @@ export default function Projects() {
 
       <ul>
         {links.map((link) => (
-          <li key={link}>
+          <li key={link} className='truncate'>
             -{' '}
             <a href={link} target='_blank'>
               {link}
