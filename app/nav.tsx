@@ -9,8 +9,8 @@ const links = [
   { href: '/' },
   { href: '/about' },
   { text: '/contact', href: `mailto:${EMAIL}`, target: '_blank' },
-  { href: '/résumé.pdf', target: '_blank' },
   { href: '/projects' },
+  { text: '/résumé', href: '/résumé.pdf', target: '_blank' },
   { href: '/socials' }
 ];
 
