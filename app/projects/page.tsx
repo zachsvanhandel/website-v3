@@ -1,6 +1,7 @@
 const links = [
   'https://bravado.zachsvanhandel.me',
-  'https://v1.zachsvanhandel.me'
+  'https://v1.zachsvanhandel.me',
+  'https://v2.zachsvanhandel.me'
 ];
 
 export default function Projects() {
